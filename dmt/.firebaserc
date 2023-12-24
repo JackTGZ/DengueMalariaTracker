@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "denguemalariatracker"
+  },
+  "targets": {
+    "denguemalariatracker": {
+      "hosting": {
+        "dmt": [
+          "dmt"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
